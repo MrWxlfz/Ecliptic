@@ -1,4 +1,4 @@
-# 🌌 Ecliptic Labs
+# Ecliptic - The best Roblox anti-cheat.. ever.
 
 **Modern Anti-Cheat, Game Management, and Statistic Software for Roblox Developers**  
 *Built to be seamless, accurate, and player-focused.*
