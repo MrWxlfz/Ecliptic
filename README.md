@@ -5,7 +5,7 @@
 
 ---
 
-![Ecliptic Labs Banner](https://via.placeholder.com/1200x400?text=Ecliptic+Labs+Banner) <!-- Placeholder image URL -->
+![Ecliptic Labs Banner](https://photos.google.com/photo/AF1QipMAceSC9N5IBfkZ0jGj4OfWs1R8lHYZ4Q6hwDby) <!-- Placeholder image URL -->
 
 ---
 
