@@ -1,0 +1,62 @@
+Ecliptic Labs Source-Available License (ELSAL) v1.0
+
+1. Purpose
+
+This license allows users to view, study, and contribute to the source code of Ecliptic Labs while restricting redistribution of the software.
+
+2. Permissions
+
+Under this license, you are granted:
+
+View and Study
+
+You may view and analyze the source code.
+
+Modify
+
+You may create derivative works (modifications or improvements) of the source code for your own use.
+
+Contribute
+
+You may submit modifications, bug fixes, or feature additions for consideration and possible inclusion in the official project. Contributions must be submitted through the official Ecliptic Labs GitHub repository.
+
+3. Restrictions
+
+No Redistribution
+
+You may not distribute, publish, sublicense, or share the original or modified source code or compiled versions of Ecliptic Labs in any form, unless explicitly authorized by the holder.
+
+Contribution Back
+
+Any modifications, fixes, or improvements must be submitted via the official GitHub repository for review.
+
+Attribution
+
+You may not remove or alter copyright notices, attribution credits, or licensing terms included in the source code.
+
+Non-Commercial Use
+
+You may not use the source code or derived works for commercial purposes without explicit permission.
+
+4. Contributions
+
+Contributions are accepted or denied at the discretion of the maintainers of Ecliptic Labs.
+
+Contributions must adhere to the project’s submission guidelines and coding standards, which are available on the GitHub repository.
+
+By contributing to the project, you agree to assign the rights to your contributions to the original project maintainer, allowing them to integrate, modify, and license your contributions as part of the official project.
+
+5. Visibility and Accessibility
+
+The source code for Ecliptic Labs is hosted on GitHub.
+
+The official license is available on the website eclipticlabs.xyz. A link to the GitHub repository is also included in the website footer.
+
+6. Disclaimer
+
+The software is provided "as-is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the software.
+
+7. Termination
+
+Your rights under this license terminate automatically if you violate any terms. Upon termination, you must destroy all copies of the source and compiled code in your possession.
+
