@@ -2,7 +2,7 @@
 
 **Modern Anti-Cheat, Game Management, and Statistic Software for Roblox Developers**  
 *Built to be seamless, accurate, and player-focused.*
-*Trusted by millions*
+*Trusted by over 300,000 developers worldwide.*
 
 
 ---
