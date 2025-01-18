@@ -2,6 +2,7 @@
 
 **Modern Anti-Cheat, Game Management, and Statistic Software for Roblox Developers**  
 *Built to be seamless, accurate, and player-focused.*
+*Trusted by millions*
 
 
 ---
@@ -26,9 +27,6 @@ Ecliptic Labs uses highly accurate algorithms to detect exploiters, including:
 - Speed hacks  
 - Teleport exploits  
 - Aimbots and auto-clickers  
-
-Detected cheaters are automatically punished with humorous ban messages like:  
-> *"Hope you enjoyed your trip to the moon because you're grounded now!"*
 
 ### 2. **Game Management Tools**  
 - **In-Game Admin Commands**: Manage players with easy-to-use admin tools.  
