@@ -3,9 +3,6 @@
 **Modern Anti-Cheat, Game Management, and Statistic Software for Roblox Developers**  
 *Built to be seamless, accurate, and player-focused.*
 
----
-
-![Ecliptic Labs Banner](https://photos.google.com/photo/AF1QipMAceSC9N5IBfkZ0jGj4OfWs1R8lHYZ4Q6hwDby) <!-- Placeholder image URL -->
 
 ---
 
