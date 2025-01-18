@@ -41,15 +41,6 @@ Track key stats, including:
 
 ---
 
-## 📥 Installation
-
-1. Download the latest release from the [Releases Page](#).  
-2. Insert the Ecliptic Labs module into Roblox Studio.  
-3. Configure the settings in the provided setup script.  
-4. Deploy the system to your game.
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions to make Ecliptic Labs even better!  
@@ -70,13 +61,13 @@ We welcome contributions to make Ecliptic Labs even better!
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the ELSAL License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
 ## 🌟 Stay Connected
 
-- **Website**: [eclipticlabs.com](#)  
+- **Website**: [eclipticlabs.xyz](#)  
 - **Discord**: Coming soon  
 - **Twitter**: Follow us for updates: [@EclipticLabs](#)  
 
