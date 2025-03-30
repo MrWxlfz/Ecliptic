@@ -1,62 +1,88 @@
-Ecliptic Labs Security Agreement (ELSA) v1.0
+# ELSA – Ecliptic Labs Security & Legal Agreement
 
-1. Purpose
+**Effective Date:** March 31, 2025  
+**Issued by:** Ecliptic Labs  
+**Applies to:** All software, source code, documentation, tools, and associated assets created and maintained by Ecliptic Labs.
 
-This license allows users to view, study, and contribute to the source code of Ecliptic Labs while restricting redistribution of the software.
+---
 
-2. Permissions
+## 1. Ownership and Intellectual Property
 
-Under this license, you are granted:
+All materials contained in this repository — including but not limited to source code, scripts, configurations, documentation, designs, and associated assets — are the exclusive intellectual property of Ecliptic Labs unless explicitly stated otherwise. All rights are reserved.
 
-View and Study
+Any reproduction, distribution, sublicensing, repurposing, or commercialization of this project or its derivatives without express written consent from Ecliptic Labs is strictly prohibited. Forks or adaptations must not misrepresent ownership or affiliation with Ecliptic Labs.
 
-You may view and analyze the source code.
+---
 
-Modify
+## 2. Authorized Use and Scope
 
-You may create derivative works (modifications or improvements) of the source code for your own use.
+You are permitted to:
+- View, study, and learn from the publicly available source code.
+- Contribute improvements through public pull requests or approved forks, subject to review and approval.
+- Deploy the project in non-commercial environments (e.g., personal, educational, or research use) only, unless otherwise licensed.
 
-Contribute
+You are prohibited from:
+- Using this project or derivatives in commercial products or services without written approval.
+- Using any part of this codebase to create or enhance software intended for malicious purposes.
+- Removing or obscuring copyright notices, licensing references, authorship credits, or notices of origin.
 
-You may submit modifications, bug fixes, or feature additions for consideration and possible inclusion in the official project. Contributions must be submitted through the official Ecliptic Labs GitHub repository.
+---
 
-3. Restrictions
+## 3. Security and Vulnerability Disclosure
 
-No Redistribution
+Ecliptic Labs maintains a strict policy of responsible disclosure. If you identify a security flaw or vulnerability:
 
-You may not distribute, publish, sublicense, or share the original or modified source code or compiled versions of Ecliptic Labs in any form, unless explicitly authorized by the holder.
+- Do **not** disclose the issue publicly.
+- Report it privately to: **security@eclipticlabs.xyz**
+- Do not use the vulnerability to access unauthorized data, disrupt systems, or test production environments.
 
-Contribution Back
+Responsible disclosures may be eligible for recognition or rewards, at the discretion of Ecliptic Labs. Any unauthorized disclosure or use of security flaws for malicious intent may result in permanent bans and legal consequences.
 
-Any modifications, fixes, or improvements must be submitted via the official GitHub repository for review.
+---
 
-Attribution
+## 4. Anti-Exploitation Policy
 
-You may not remove or alter copyright notices, attribution credits, or licensing terms included in the source code.
+Use of this software in connection with malicious activity is strictly forbidden. This includes (but is not limited to):
 
-Non-Commercial Use
+- The creation or enhancement of exploit tools, cheat engines, reverse engineering scripts, or unauthorized administrative utilities.
+- Attempting to bypass, dismantle, or reverse the anti-cheat, anti-injection, or other security mechanisms built into this codebase.
 
-You may not use the source code or derived works for commercial purposes without explicit permission.
+Violations of this section may result in civil liability, takedown enforcement, and immediate reporting to platform and law enforcement authorities.
 
-4. Contributions
+---
 
-Contributions are accepted or denied at the discretion of the maintainers of Ecliptic Labs.
+## 5. Integrated Licensing Terms
 
-Contributions must adhere to the project’s submission guidelines and coding standards, which are available on the GitHub repository.
+Unless otherwise stated in the repository, this software is governed by the **Ecliptic Secure Source License (ESSL)** as described herein:
 
-By contributing to the project, you agree to assign the rights to your contributions to the original project maintainer, allowing them to integrate, modify, and license your contributions as part of the official project.
+- **Attribution Required:** You must credit Ecliptic Labs in all forks or derivative works.
+- **Non-Commercial Use Only:** This software may not be used for commercial purposes without explicit written permission.
+- **Revocable Grant:** Ecliptic Labs reserves the right to revoke access or usage rights at any time.
+- **Modification Allowed:** You may modify this software for non-commercial purposes, but must retain this agreement and attribution.
+- **No Warranty:** This software is provided “as-is” without warranty of any kind. Use at your own risk.
 
-5. Visibility and Accessibility
+This license is **not OSI-approved** and is intended to strike a balance between open collaboration and strong protection of proprietary security systems.
 
-The source code for Ecliptic Labs is hosted on GitHub.
+---
 
-The official license is available on the website eclipticlabs.xyz. A link to the GitHub repository is also included in the website footer.
+## 6. Enforcement and Legal Recourse
 
-6. Disclaimer
+Violations of this agreement may result in:
+- Revocation of access to Ecliptic Labs projects and services
+- DMCA takedown requests
+- Permanent blacklisting from future contributions
+- Civil or criminal legal proceedings
 
-The software is provided "as-is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the software.
+---
 
-7. Termination
+## 7. Jurisdiction and Modifications
 
-Your rights under this license terminate automatically if you violate any terms. Upon termination, you must destroy all copies of the source and compiled code in your possession.
+This agreement is governed by the laws of the State of Texas, United States of America, without regard to conflict of law principles.
 
+Ecliptic Labs reserves the right to modify this agreement at any time. All modifications will be made publicly visible via repository commit history or changelog.
+
+Continued use of this project constitutes binding acceptance of the current version of this agreement.
+
+---
+
+**© 2025 Ecliptic Labs. All rights reserved. Unauthorized use is strictly prohibited.**
