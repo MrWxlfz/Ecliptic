@@ -1,0 +1,17 @@
+# Prevent node_modules and build files from being tracked
+node_modules/
+.next/
+out/
+dist/
+*.log
+
+# Mac system files
+.DS_Store
+
+# Env and OS settings
+.env
+.env.local
+.env.*.local
+
+# Optional: prevent Vercel local config from being tracked
+.vercel/
