@@ -95,7 +95,7 @@ export default function Features05() {
                   <path className="fill-purple-400" fillRule="nonzero" d="M13 6.586 14.414 8l-5.747 5.748-3.081-3.081L7 9.252l1.667 1.667z" />
                 </svg>
                 <p className="text-sm text-slate-400">
-                  There's no prioritized support in Stellar. You can use email or live chat and you will hear back in a <strong className="text-slate-300 font-medium">couple of hours</strong>.
+                  There's no prioritized support in Ecliptic. You can use email or live chat and you will hear back in a <strong className="text-slate-300 font-medium">couple of hours</strong>.
                 </p>
               </div>
             </div>

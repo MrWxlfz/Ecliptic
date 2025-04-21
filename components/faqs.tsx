@@ -21,7 +21,7 @@ export default function Faqs() {
         {/* Section header */}
         <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <div>
-            <div className="inline-flex font-medium bg-clip-text text-transparent bg-linear-to-r from-purple-500 to-purple-200 pb-3">Getting started with Stellar</div>
+            <div className="inline-flex font-medium bg-clip-text text-transparent bg-linear-to-r from-purple-500 to-purple-200 pb-3">Getting started with Ecliptic</div>
           </div>
           <h2 className="h2 bg-clip-text text-transparent bg-linear-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Everything you need to know</h2>
         </div>
@@ -34,19 +34,19 @@ export default function Faqs() {
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">What is Stellar?</h4>
-              <p className="text-slate-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+              <h4 className="font-semibold">What is Ecliptic?</h4>
+              <p className="text-slate-400">Ecliptic is a security and game management platform built by Roblox developers, for Roblox developers. At its core, Ecliptic helps you protect your game from exploiters, track what’s going on in real-time, and manage your player base smarter—all without needing to build complicated systems from scratch. Ecliptic gives you the same high-end tools used by top-tier games—without the bloat or complexity. </p>
             </div>
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">What's an affordable alternative to Stellar?</h4>
-              <p className="text-slate-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
+              <h4 className="font-semibold">What's an affordable alternative to Ecliptic?</h4>
+              <p className="text-slate-400">It might sound we're saying this because we want you to buy our product.. but spoiler alert- there is no affordable alternative!</p>
             </div>
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">Can I remove the 'Powered by Stellar' branding?</h4>
+              <h4 className="font-semibold">Can I remove the 'Powered by Ecliptic' branding?</h4>
               <p className="text-slate-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
             </div>
 
@@ -63,13 +63,13 @@ export default function Faqs() {
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">Can I use Stellar for free?</h4>
+              <h4 className="font-semibold">Can I use Ecliptic for free?</h4>
               <p className="text-slate-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
             </div>
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">Is Stellar affordable for small businesses?</h4>
+              <h4 className="font-semibold">Is Ecliptic affordable for small businesses?</h4>
               <p className="text-slate-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum.</p>
             </div>
 

@@ -21,7 +21,7 @@ export default function TestimonialsCarousel() {
   const [swiperInitialized, setSwiperInitialized] = useState<boolean>(false)
 
   useEffect(() => {
-    const carousel = new Swiper('.stellar-carousel', {
+    const carousel = new Swiper('.ecliptic-carousel', {
       breakpoints: {
         320: {
           slidesPerView: 1
@@ -63,7 +63,7 @@ export default function TestimonialsCarousel() {
           {/* Carousel built with Swiper.js [https://swiperjs.com/] */}
           {/* * Custom styles in src/css/additional-styles/theme.scss */}
           <div className="relative before:absolute before:inset-0 before:-translate-x-full before:z-20 before:bg-linear-to-l before:from-transparent before:to-slate-900 before:to-20% after:absolute after:inset-0 after:translate-x-full after:z-20 after:bg-linear-to-r after:from-transparent after:to-slate-900 after:to-20%">
-            <div className="stellar-carousel swiper-container group">
+            <div className="ecliptic-carousel swiper-container group">
               <Highlighter className="swiper-wrapper w-fit" refresh={swiperInitialized}>
                 {/* Carousel items */}
                 <HighlighterItem className="swiper-slide h-auto group/slide">

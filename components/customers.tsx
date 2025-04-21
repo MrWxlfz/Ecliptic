@@ -14,7 +14,7 @@ export default function Customers() {
   const items = [
     {
       img: CustomerImg01,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
+      quote: "As a solo dev, Ecliptic saved me *months* of work. The anti-exploit works flawlessly and the dashboard is way cleaner than anything I could build myself.",
       name: 'Mike Smets',
       twitter: {
         handle: '@MikeSmets',
@@ -23,16 +23,16 @@ export default function Customers() {
     },
     {
       img: CustomerImg02,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
-      name: 'Mike Bryan',
+      quote: "We manage a front-page Roblox game, and Ecliptic is the only security layer we trust. Fast, accurate, and always improving.",
+      name: '[redacted]',
       twitter: {
-        handle: '@mike0point7',
+        handle: '[redacted]',
         link: '#0'
       }
     },
     {
       img: CustomerImg03,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
+      quote: "Ecliptic helped us catch over 300 exploit attempts in the first week. The Portal logs *everything*—it’s a game-changer.",
       name: 'Liz Park',
       twitter: {
         handle: '@liz-park82',
@@ -41,7 +41,7 @@ export default function Customers() {
     },
     {
       img: CustomerImg04,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
+      quote: "Our studio has millions of visits a month. Ecliptic keeps things under control so our team can actually sleep at night.",
       name: 'Jessie Maison',
       twitter: {
         handle: '@jessiem9',
@@ -50,7 +50,7 @@ export default function Customers() {
     },
     {
       img: CustomerImg05,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
+      quote: "This is the first time I’ve felt truly confident launching a game. Ecliptic has my back—and my playerbase safe.",
       name: 'Devani Janssen',
       twitter: {
         handle: '@deva07p',
@@ -59,7 +59,7 @@ export default function Customers() {
     },
     {
       img: CustomerImg06,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
+      quote: "We switched from another anti-cheat and never looked back. Ecliptic is lighter, faster, and actually responsive to feedback.",
       name: 'Mark Gerkules',
       twitter: {
         handle: '@mark-gerk',
@@ -68,7 +68,7 @@ export default function Customers() {
     },
     {
       img: CustomerImg07,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
+      quote: "Ecliptic makes moderation feel effortless. The real-time logs and remote tools are a dream, especially when you're juggling multiple games.",
       name: 'Andrey Propenk',
       twitter: {
         handle: '@andrey-prok',
@@ -77,7 +77,7 @@ export default function Customers() {
     },
     {
       img: CustomerImg08,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
+      quote: "It’s the little things—like the clean UI, accurate detection, and detailed logs—that make Ecliptic feel premium. Worth every penny.",
       name: 'Jay Master',
       twitter: {
         handle: '@masterpro',
@@ -86,10 +86,10 @@ export default function Customers() {
     },
     {
       img: CustomerImg09,
-      quote: "I love Stellar, is super easy to use with top notch features. My favourites are the affiliates and the lovely login box that converts like magic.",
-      name: 'Steve Wolf',
+      quote: "\"Got banned in 2 seconds. They detected my UI spoof, kicked me, and sent a log to the dev. 0/10 I miss when I could cheat in peace.\"",
+      name: 'Some banned exploiter',
       twitter: {
-        handle: '@imsteve',
+        handle: '@definitelynotcheating',
         link: '#0'
       }
     },
@@ -108,11 +108,10 @@ export default function Customers() {
           {/* Content */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 bg-clip-text text-transparent bg-linear-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Meet our customers</h2>
-            <p className="text-lg text-slate-400">There are many variations available, but the majority have suffered, by injected humour, or randomised words which don't look even slightly believable.</p>
+            <p className="text-lg text-slate-400">From indie devs to large-scale studios—even a few salty exploiters—Ecliptic is trusted by the people who care about security the most.</p>
           </div>
           {/* Customers */}
           <div className="grid lg:grid-cols-3 gap-4 sm:gap-6 max-w-xs mx-auto lg:max-w-none">
-
             {items.map((item, index) => (
               <div key={index} className="relative p-5 before:absolute before:inset-0 before:-z-10 before:border before:border-slate-300 before:bg-slate-700 before:opacity-10 before:rounded-xl">
                 <div className="flex items-center justify-between space-x-2 mb-4">
@@ -130,7 +129,6 @@ export default function Customers() {
                 <p className="text-sm text-slate-400">{item.quote}</p>
               </div>
             ))}
-
           </div>
         </div>
       </div>

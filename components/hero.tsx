@@ -25,13 +25,13 @@ export default function Hero() {
               <div className="inline-flex relative before:absolute before:inset-0 before:bg-purple-500 before:blur-md">
                 <a className="btn-sm py-0.5 text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(var(--color-purple-500),var(--color-purple-500))_padding-box,linear-gradient(var(--color-purple-500),var(--color-purple-200)_75%,transparent_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/50 before:rounded-full before:pointer-events-none shadow-sm" href="#0">
                   <span className="relative inline-flex items-center">
-                    API Studio is now in beta <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+                    Portal is now in beta <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                   </span>
                 </a>
               </div>
             </div>
-            <h1 className="h1 bg-clip-text text-transparent bg-linear-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4" data-aos="fade-down">The API Security Framework</h1>
-            <p className="text-lg text-slate-300 mb-8" data-aos="fade-down" data-aos-delay="200">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+            <h1 className="h1 bg-clip-text text-transparent bg-linear-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4" data-aos="fade-down">The world's #1 solution for developers, and their communities.</h1>
+            <p className="text-lg text-slate-300 mb-8" data-aos="fade-down" data-aos-delay="200">Ecliptic empowers Roblox developers and their communities with advanced anti-cheat security and management tools-built for anything with real-time data.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:inline-flex sm:justify-center space-y-4 sm:space-y-0 sm:space-x-4" data-aos="fade-down" data-aos-delay="400">
               <div>
                 <a className="btn text-slate-900 bg-linear-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="#0">

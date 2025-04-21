@@ -3,11 +3,11 @@
     @apply opacity-50 cursor-default pointer-events-none;
 }
 
-.stellar-carousel .swiper-slide {
+ .swiper-slide {
     @apply opacity-80;
 }
 
-.stellar-carousel .swiper-slide.swiper-slide-active {
+ .swiper-slide.swiper-slide-active {
     @apply opacity-100;
 }
 
