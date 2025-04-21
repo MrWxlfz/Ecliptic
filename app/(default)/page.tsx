@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Stellar',
-  description: 'Page description',
+  title: 'Home - Ecliptic',
+  description: 'The world’s first security-first platform for Roblox communities. Join today.',
 }
 
 import Hero from '@/components/hero'

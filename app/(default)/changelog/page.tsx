@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Changelog - Stellar',
-  description: 'Page description',
+  title: 'Changelog - Ecliptic',
+  description: 'Changes to our services.',
 }
 
 import { getUpdatePosts } from '@/components/mdx/utils'

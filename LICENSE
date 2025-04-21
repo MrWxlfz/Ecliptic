@@ -1,88 +1,140 @@
 # ELSA – Ecliptic Labs Security & Legal Agreement
 
-**Effective Date:** March 31, 2025  
+**Effective Date:** April 20, 2025  
 **Issued by:** Ecliptic Labs  
-**Applies to:** All software, source code, documentation, tools, and associated assets created and maintained by Ecliptic Labs.
+**Applies to:** All software, services, systems, scripts, dashboards, APIs, and associated intellectual property developed, hosted, or distributed by Ecliptic Labs.
 
 ---
 
 ## 1. Ownership and Intellectual Property
 
-All materials contained in this repository — including but not limited to source code, scripts, configurations, documentation, designs, and associated assets — are the exclusive intellectual property of Ecliptic Labs unless explicitly stated otherwise. All rights are reserved.
+All materials provided by Ecliptic Labs — including but not limited to source code, APIs, backend services, documentation, detection logic, obfuscation systems, infrastructure, and design — are the exclusive intellectual property of Ecliptic Labs unless explicitly stated otherwise.
 
-Any reproduction, distribution, sublicensing, repurposing, or commercialization of this project or its derivatives without express written consent from Ecliptic Labs is strictly prohibited. Forks or adaptations must not misrepresent ownership or affiliation with Ecliptic Labs.
+All rights are reserved.
 
----
+You may not:
+- Reproduce, fork, reverse engineer, sublicense, repurpose, or commercialize this software or its derivatives
+- Create competing services or projects based on the structure, naming, architecture, or functionality of this system
+- Use our branding, naming, or internal structure to imply affiliation or ownership
 
-## 2. Authorized Use and Scope
-
-You are permitted to:
-- View, study, and learn from the publicly available source code.
-- Contribute improvements through public pull requests or approved forks, subject to review and approval.
-- Deploy the project in non-commercial environments (e.g., personal, educational, or research use) only, unless otherwise licensed.
-
-You are prohibited from:
-- Using this project or derivatives in commercial products or services without written approval.
-- Using any part of this codebase to create or enhance software intended for malicious purposes.
-- Removing or obscuring copyright notices, licensing references, authorship credits, or notices of origin.
+Unauthorized replication or imitation of our systems, UI, logic, or backend structure is strictly prohibited and subject to legal enforcement.
 
 ---
 
-## 3. Security and Vulnerability Disclosure
+## 2. Access Restrictions and Authorized Use
 
-Ecliptic Labs maintains a strict policy of responsible disclosure. If you identify a security flaw or vulnerability:
+Ecliptic Labs operates under a **closed-access model**. No part of this platform is publicly available for review, integration, or testing unless otherwise and explicitly approved.
 
-- Do **not** disclose the issue publicly.
-- Report it privately to: **security@eclipticlabs.xyz**
-- Do not use the vulnerability to access unauthorized data, disrupt systems, or test production environments.
+You are only permitted to:
+- Access services via a formal license or partnership agreement
+- Interact with Ecliptic systems as an approved client, enterprise partner, or registered Security Tester (by invitation only)
+- Submit contributions through secured, authorized pathways
 
-Responsible disclosures may be eligible for recognition or rewards, at the discretion of Ecliptic Labs. Any unauthorized disclosure or use of security flaws for malicious intent may result in permanent bans and legal consequences.
+You are not permitted to:
+- View, clone, fork, or interact with this repository unless explicitly authorized
+- Use this software or related services in any live, test, or commercial environment
+- Use this software to enhance, train, or power external services or moderation tools
 
----
-
-## 4. Anti-Exploitation Policy
-
-Use of this software in connection with malicious activity is strictly forbidden. This includes (but is not limited to):
-
-- The creation or enhancement of exploit tools, cheat engines, reverse engineering scripts, or unauthorized administrative utilities.
-- Attempting to bypass, dismantle, or reverse the anti-cheat, anti-injection, or other security mechanisms built into this codebase.
-
-Violations of this section may result in civil liability, takedown enforcement, and immediate reporting to platform and law enforcement authorities.
+Unauthorized access to any part of our ecosystem — including repos, endpoints, web portals, or internal APIs — constitutes a breach of this Agreement.
 
 ---
 
-## 5. Integrated Licensing Terms
+## 3. API Access and Infrastructure Protections
 
-Unless otherwise stated in the repository, this software is governed by the **Ecliptic Secure Source License (ESSL)** as described herein:
+All APIs, authentication systems, and internal services are protected by active enforcement and rate control. Any access or use must be pre-approved and adhere to defined scopes and environments.
 
-- **Attribution Required:** You must credit Ecliptic Labs in all forks or derivative works.
-- **Non-Commercial Use Only:** This software may not be used for commercial purposes without explicit written permission.
-- **Revocable Grant:** Ecliptic Labs reserves the right to revoke access or usage rights at any time.
-- **Modification Allowed:** You may modify this software for non-commercial purposes, but must retain this agreement and attribution.
-- **No Warranty:** This software is provided “as-is” without warranty of any kind. Use at your own risk.
+You are strictly prohibited from:
+- Using unauthorized API tokens, endpoints, or payloads
+- Probing or logging request/response cycles to reverse engineer functionality
+- Simulating or spoofing traffic to mimic Ecliptic behavior
+- Attempting to reimplement, clone, or “sandbox” Ecliptic features outside approved environments
 
-This license is **not OSI-approved** and is intended to strike a balance between open collaboration and strong protection of proprietary security systems.
-
----
-
-## 6. Enforcement and Legal Recourse
-
-Violations of this agreement may result in:
-- Revocation of access to Ecliptic Labs projects and services
-- DMCA takedown requests
-- Permanent blacklisting from future contributions
-- Civil or criminal legal proceedings
+Usage is monitored. Violations will be pursued.
 
 ---
 
-## 7. Jurisdiction and Modifications
+## 4. Contribution Terms and Approvals
 
-This agreement is governed by the laws of the State of Texas, United States of America, without regard to conflict of law principles.
+Ecliptic Labs does not operate an open-source contribution model.
 
-Ecliptic Labs reserves the right to modify this agreement at any time. All modifications will be made publicly visible via repository commit history or changelog.
+Contributions are accepted **by invitation only** and must meet the following criteria:
+- The contributor is pre-approved and under agreement (CLA and/or NDA)
+- Submissions are original and free of third-party licensing constraints
+- Work is submitted securely and privately for internal review
+- Ecliptic Labs maintains full ownership rights of any accepted contributions
 
-Continued use of this project constitutes binding acceptance of the current version of this agreement.
+Public forks, unsolicited pull requests, or unapproved issues will be closed or removed. Misuse of the contribution system may result in blacklisting.
 
 ---
 
-**© 2025 Ecliptic Labs. All rights reserved. Unauthorized use is strictly prohibited.**
+## 5. Security Testing and Vulnerability Disclosure
+
+Ecliptic Labs maintains a structured, internal vulnerability program. Security researchers or developers may only submit vulnerability reports under the following conditions:
+
+- You must be registered in the Security Testing Program (not publicly open at this time)
+- All reports must be submitted privately to **security@eclipticlabs.xyz**
+- Public disclosure of flaws without coordination is a violation of this Agreement
+- You may not test, probe, or simulate attacks in production or unauthorized environments
+
+Responsible reports may be eligible for recognition or rewards at the discretion of Ecliptic Labs. Exploiting or leaking discovered vulnerabilities may result in enforcement actions.
+
+---
+
+## 6. Universal Terms for All Users
+
+This Agreement applies to all users, whether:
+- You are a partner, tester, contributor, client, studio, researcher, or staff member
+- You have temporary access through a deployment or code review
+- You are operating within production, staging, or sandbox environments
+
+You agree not to:
+- Replicate or imitate Ecliptic Labs services, detection models, moderation flow, or internal tools
+- Translate, cleanroom, or redevelop our system under a different name or company
+- Misrepresent affiliation, contribution status, or platform integration with Ecliptic Labs
+
+All usage is subject to oversight. Systems may include embedded fingerprinting, call trace validation, and anti-replication markers.
+
+---
+
+## 7. Integrated Licensing Terms
+
+Unless otherwise stated:
+- This software is governed by the **Ecliptic Secure Source License (ESSL)**
+- All rights are reserved to Ecliptic Labs
+- You may not use, modify, or distribute any part of this platform without written approval
+- This license is non-commercial, non-transferable, revocable, and not OSI-approved
+
+This license protects highly sensitive infrastructure and is designed to prevent abuse while enabling vetted use by trusted studios, clients, and partners.
+
+---
+
+## 8. Enforcement and Penalties
+
+Violations of this Agreement — including unauthorized access, replication, reverse engineering, or distribution — may result in:
+- Immediate revocation of credentials and deployment access
+- Permanent blacklisting from Ecliptic Labs systems and services
+- Public notice of violation (where appropriate)
+- DMCA takedowns and formal cease-and-desist notifications
+- Civil and/or criminal legal action
+
+All enforcement actions are executed at Ecliptic Labs' sole discretion and without obligation to prior notice.
+
+---
+
+## 9. Modifications
+
+Ecliptic Labs reserves the right to update, revise, or extend this agreement at any time. All changes will be published through commit history, version-controlled documentation, or licensing portals.
+
+Use of any Ecliptic Labs product or service after such updates constitutes acceptance of the new terms.
+
+---
+
+## 10. Jurisdiction and Enforcement Scope
+
+This Agreement is enforceable under applicable intellectual property, cybersecurity, and licensing law. We reserve the right to pursue enforcement in any jurisdiction where our services are used or violated.
+
+All terms are designed to apply globally and may be adapted to local laws and enforcement mechanisms where required.
+
+---
+
+© 2025 Ecliptic Labs. All rights reserved. Unauthorized use is strictly prohibited.

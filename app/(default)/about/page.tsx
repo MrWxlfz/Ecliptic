@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'About - Stellar',
-  description: 'Page description',
+  title: 'About - Ecliptic',
+  description: 'About us, and our amazing team.',
 }
 
 import Hero from '@/components/hero-about'
