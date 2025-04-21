@@ -1,77 +1,38 @@
-# Ecliptic - The best Roblox anti-cheat.. ever.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-**Modern Anti-Cheat, Game Management, and Statistic Software for Roblox Developers**  
-*Built to be seamless, accurate, and player-focused.*
-*Trusted by over 300,000 developers worldwide.*
+## Getting Started
 
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-## 🚀 Features
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- **🔒 Anti-Cheat**  
-  Accurately detect and punish exploiters in real-time without impacting gameplay.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- **📊 Game Management**  
-  Tools to seamlessly monitor, manage, and moderate your Roblox games.
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-- **📈 Advanced Statistics**  
-  In-depth player stats and analytics to help you improve the gaming experience.
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
----
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## 🛠️ How It Works
+## Learn More
 
-### 1. **Anti-Cheat Detection**  
-Ecliptic Labs uses highly accurate algorithms to detect exploiters, including:  
-- Speed hacks  
-- Teleport exploits  
-- Aimbots and auto-clickers  
+To learn more about Next.js, take a look at the following resources:
 
-### 2. **Game Management Tools**  
-- **In-Game Admin Commands**: Manage players with easy-to-use admin tools.  
-- **Real-Time Logs**: Monitor suspicious activities live.  
-- **Server Optimization**: Keep your game running smoothly.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-### 3. **Player Statistics**  
-Track key stats, including:  
-- Playtime ⏳  
-- High scores 🏆  
-- Player activity 📊  
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
----
+## Deploy on Vercel
 
-## 🤝 Contributing
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-We welcome contributions to make Ecliptic Labs even better!  
-- **Report Bugs** 🐛: Open an issue in the [Issues Tab](#).  
-- **Suggest Features** 🌟: Share your ideas for new tools or improvements.  
-- **Pull Requests** 🔧: Submit PRs for enhancements or bug fixes.
-
----
-
-## 📝 Roadmap
-
-- [x] Core Anti-Cheat System  
-- [ ] Advanced Statistic Dashboard  
-- [ ] Cross-Game Data Sync  
-- [ ] Improved Game Management UI  
-
----
-
-## 📄 License
-
-This project is licensed under the ELSAL License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-## 🌟 Stay Connected
-
-- **Website**: [eclipticlabs.xyz](#)  
-- **Discord**: Coming soon  
-- **Twitter**: Follow us for updates: [@EclipticLabs](#)  
-
----
-
-> "Making games fair, fun, and flawless—one line of code at a time."  
-> **Ecliptic Labs** ✨
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
